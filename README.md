@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joma Villanueva!
 - 👀 I’m interested in Web Development, Cloud Technology(DevOps)
-- 🌱 I’m currently learning NodeJs, DevOps
+- 🌱 I’m currently learning Kubernetes, DevOps
 - 📫 How to reach me: villanueva.joma@gmail.com
 
 <!---
